@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first GitHub project
-## Author Taimoor 
+## Author Taimoor (sadaqat)
